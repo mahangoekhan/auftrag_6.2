@@ -21,5 +21,5 @@ spec:
           ports:
             - containerPort: 8080
               protocol: TCP
-          image: image-registry.openshift-image-registry.svc:5000/zlic-tgokhan1/html-openshift-app:v1
+          image: image-registry.openshift-image-registry.svc:5000/254196-zlic-tgokhan1/html-openshift-app:v1
           imagePullPolicy: Always
